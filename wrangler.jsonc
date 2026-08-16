@@ -1,0 +1,5 @@
+{
+  "name": "efikcoin-rpc",
+  "main": "src/index.js",
+  "compatibility_date": "2025-05-15"
+}
